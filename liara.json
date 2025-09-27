@@ -1,6 +1,5 @@
 {
   "app": "my-flask-test",
-  "port": 0000,
   "build": {
     "location": "iran"
   },
